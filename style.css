@@ -3,10 +3,6 @@ body {
   margin-right: 100px;
 }
 
-
-
-
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -23,3 +19,10 @@ a {
   font-weight: 900;
   font-family:  "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.newscientist {
+  font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+  letter-spacing: -5px;
+}
+
