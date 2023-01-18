@@ -1,1 +1,25 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
 
+
+
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.newsletter {
+  color: #00bcfc;
+  font-weight: 900;
+  font-family:  "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
