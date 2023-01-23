@@ -204,5 +204,14 @@ a {
   font-size: large;
 }
 
+.launchpad {
+  font-weight: 800;
+  font-size: large;
+  color: #00bcfc;
+}
+
+.sign {
+  font-size: large;
+}
 
 
