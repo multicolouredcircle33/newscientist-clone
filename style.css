@@ -146,6 +146,32 @@ a {
   text-decoration: none;
 }
 
+.image { 
+  padding-left: 60px;
+}
+
+.img-credit {
+  padding-left: 60px;
+}
+
+.imgcredit1 {
+  font-weight: 900px;
+  font-size: 14px;
+  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  color: darkslategray;
+}
+
+.imgcredit2 {
+  
+  margin-top: -16px;
+  font-size: 12px;
+  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  color: darkslategray;
+}
+
+
+
+
 
 
 
