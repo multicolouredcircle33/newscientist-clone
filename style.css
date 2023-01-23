@@ -92,7 +92,7 @@ a {
 
 .line {
   height: 1px;
-  width: 200rem;
+  width: auto;
   background-color: grey;
   margin-top: -5px;
   margin-left: -100px;
@@ -113,7 +113,22 @@ a {
   margin-top: -8px;
 }
 
+.space {
+  padding-left: 60px;
+  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  font-weight: 700;
+  color:darkslategray;
+}
 
+.date {
+  text-decoration: none;
+  font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+  color: darkslategray;
+}
+
+.space:hover {
+  text-decoration: underline;
+}
 
 
 
