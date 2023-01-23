@@ -130,6 +130,10 @@ a {
   text-decoration: underline;
 }
 
+.newsletter:hover {
+  color: cornflowerblue;
+}
+
 
 
 
