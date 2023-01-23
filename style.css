@@ -176,6 +176,22 @@ a {
   line-height: 1.5625rem;
 }
 
+.read { 
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  padding: 10px;
+  padding-bottom: -20px;
+  width: 800px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.more {
+  text-decoration: none;
+  color: #00bcfc;
+}
 
 
 
