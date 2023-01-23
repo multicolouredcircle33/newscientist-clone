@@ -1,5 +1,5 @@
 .body {
-  margin-left: 100px;
+  margin-left: 100px ;
   margin-right: 100px;
 }
 
@@ -92,9 +92,11 @@ a {
 
 .line {
   height: 1px;
-  width: 100%;
+  width: 200rem;
   background-color: grey;
   margin-top: -5px;
+  margin-left: -100px;
+  margin-right: -100px;
 }
 
 .heading1 {
