@@ -1,5 +1,5 @@
 .body {
-  margin-left: 100px ;
+  margin-left: 100px;
   margin-right: 100px;
 }
 
@@ -18,9 +18,9 @@ a {
 .newsletter {
   color: #00bcfc;
   font-weight: 900;
-  font-family:  "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin-left: -55px;
-  font-size: 1.125rem ;
+  font-size: 1.125rem;
 }
 
 .newscientist {
@@ -82,7 +82,7 @@ a {
   padding-left: 65px;
   margin-top: -60px;
   color: #999;
-  font-family: "PT Serif",Georgia,serif;
+  font-family: "PT Serif", Georgia, serif;
   letter-spacing: -0.6px;
 }
 
@@ -117,7 +117,7 @@ a {
   padding-left: 60px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   font-weight: 700;
-  color:darkslategray;
+  color: darkslategray;
 }
 
 .date {
@@ -170,12 +170,12 @@ a {
 
 .p1 {
   padding-right: 450px;
-  font-family:  "PT Serif", Georgia, serif;
+  font-family: "PT Serif", Georgia, serif;
   font-size: 1.0625rem;
   line-height: 1.5625rem;
 }
 
-.read { 
+.read {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.1875rem;
