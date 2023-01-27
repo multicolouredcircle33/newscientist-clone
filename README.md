@@ -1,11 +1,11 @@
 
-## stone1
+## newscientist-clone
 
-stone1 is a basic webpage which was designed using CSS and semantic HTML
+newscientist-clone is a basic webpage which was designed using CSS and semantic HTML
 
 ### Live Demo
 
-[Live Demo link](https://multicolouredcircle33.github.io/stone1/)
+[Live Demo link](https://multicolouredcircle33.github.io/newscientist-clone/)
 
 
 
@@ -15,20 +15,11 @@ stone1 is a basic webpage which was designed using CSS and semantic HTML
 
 * GitHub: [@multicolouredcircle33](https://github.com/multicolouredcircle33)
 
-👤 **Author 2**
-
-* GitHub: [@Mr-Nature](https://github.com/Mr-Nature)
-* Twitter: [@Mr-Nature](https://twitter.com/topisco97?t=8WLZJbMDsktvajJztdtQ-A&s=08)
-
-👤 **Author 3**
-
-* GitHub: [@maryorwah04](https://github.com/maryorwah04)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/multicolouredcircle33/stone1/issues).
+Feel free to check the [issues page](https://github.com/multicolouredcircle33/newscientist-clone/issues).
 
 ## Show your support
 
