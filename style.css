@@ -240,11 +240,33 @@ a {
   left: 70vmax;
   width: max-content;
   bottom: 35vmax;
-  text-decoration: none;
-  margin-left: -2.5rem;
+  margin-left: -3.5rem;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
+.tre {
+  text-decoration: none;
+  padding: 11px 15px 11px 15px;
+  background-color: #f5f5f5;
+}
+
+.latest {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 11px 15px 11px 15px;
+}
+
+.free {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 11px 15px 11px 15px;
+}
+
+.video {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 11px 15px 11px 15px;
+}
 
 
 
