@@ -248,7 +248,8 @@ a {
   padding: 10px 10px 10px 10px;
   margin-right: 10px;
   color: #fff;
-  font-weight: 1000;
+  font-weight: 600;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
 .latest {
@@ -256,6 +257,8 @@ a {
   background-color: #f5f5f5;
   padding: 10px 10px 10px 10px;
   margin-right: 10px;
+  font-weight: 600;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
 .video {
@@ -263,6 +266,8 @@ a {
   background-color: #f5f5f5;
   padding: 10px 10px 10px 10px;
   margin-right: 10px;
+  font-weight: 600;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
 .free {
@@ -270,4 +275,6 @@ a {
   background-color: #f5f5f5;
   padding: 10px 10px 10px 10px;
   margin-right: 10px;
+  font-weight: 600;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
