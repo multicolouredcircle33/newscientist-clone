@@ -277,7 +277,6 @@ a {
   margin-right: 10px;
   font-weight: 600;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
-
 }
 
 .sect1 {
@@ -323,6 +322,7 @@ a {
   padding-right: 3px;
   font-weight: 600;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  width: inherit;
 }
 
 .three {
@@ -363,4 +363,10 @@ a {
   margin-left: 50px;
   color: #00bcfc;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.sects {
+  display:flex;
+  flex-direction: column;
+  margin-right: 10px;
 }
