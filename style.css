@@ -379,3 +379,11 @@ a {
 .sectsh:hover {
   color: #00bcfc;
 }
+
+.extra:hover {
+  border-bottom: 12px solid black;
+}
+
+a.extra {
+  color: #000;
+}
