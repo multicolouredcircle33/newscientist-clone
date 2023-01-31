@@ -288,6 +288,7 @@ a {
   padding-right: 3px;
   font-weight: 600;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  text-decoration: none;
 }
 
 .one {
@@ -373,4 +374,8 @@ a {
 
 .tops:hover {
   background-color: darkgray;
+}
+
+.sectsh:hover {
+  color: #00bcfc;
 }
