@@ -238,4 +238,36 @@ a {
 .aside {
   float: right;
   margin-top: -30rem;
+  margin-left: 120px;
+
+}
+
+.tre {
+  text-decoration: none;
+  background-color: #00bcfc;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+  color: #fff;
+  font-weight: 1000;
+}
+
+.latest {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+}
+
+.video {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+}
+
+.free {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
 }
