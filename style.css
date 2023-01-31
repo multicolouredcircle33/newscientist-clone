@@ -343,7 +343,24 @@ a {
 }
 
 .four {
-  margin-left: 60px;
+  margin-left: 55px;
+  color: #00bcfc;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.sect5 {
+  font-size: 23px;
+  line-height: 0.4;
+  background-color: #f5f5f5;
+  padding: 1px 10px 16px 10px;
+  margin-top: 15px;
+  padding-right: 3px;
+  font-weight: 600;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+.five {
+  margin-left: 50px;
   color: #00bcfc;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
