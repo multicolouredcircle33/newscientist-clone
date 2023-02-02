@@ -1,13 +1,12 @@
-.body {
-  margin-left: 100px;
-  margin-right: 100px;
-}
-
 .header {
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin-top: -20px;
+}
+
+.bdy {
+  overflow-x: hidden;
 }
 
 a {
@@ -92,11 +91,10 @@ a {
 
 .line {
   height: 1px;
-  width: 90rem;
   background-color: grey;
   margin-top: -5px;
+  width: 150%;
   margin-left: -100px;
-  margin-right: -100px;
 }
 
 .heading1 {
