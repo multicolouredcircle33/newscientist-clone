@@ -385,3 +385,10 @@ a {
 a.extra {
   color: #000;
 }
+
+#sticky {
+  position: sticky;
+  background-color: #fff;
+  top: 0;
+  padding-top: 1px;
+}
