@@ -441,6 +441,7 @@ a.extra {
   font-weight: 900;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+  margin-left: 0.5em;
 }
 
 .feed {
@@ -454,7 +455,7 @@ a.extra {
   color: #f5f5f5;
 }
 
-.options{
+.options {
   margin-top: -10px;
 }
 
@@ -473,8 +474,4 @@ a.extra {
 
 .subscribe {
   margin-top: 10px;
-}
-
-.send {
-  margin-left: 0.5em;
 }
