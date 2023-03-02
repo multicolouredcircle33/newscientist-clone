@@ -392,3 +392,86 @@ a.extra {
   top: 0;
   padding-top: 1px;
 }
+
+#form {
+  margin-top: 50px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  justify-content: center;
+  width: 400px;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+#td {
+  background-color: #002837;
+  border-radius: 1.5rem;
+  text-align: left;
+  padding-right: 30px;
+}
+
+.cmt {
+  padding-right: 105px;
+  margin-bottom: 15px;
+  padding-bottom: 60px;
+  border-radius: 1rem;
+}
+
+.nm {
+  padding-right: 100px;
+  margin-bottom: 15px;
+  border-radius: 1rem;
+}
+
+.mail {
+  padding-right: 105px;
+  margin-bottom: 15px;
+  border-radius: 1rem;
+}
+
+.neutral {
+  margin-bottom: 20px;
+}
+
+.send {
+  background-color: #fff;
+  color: #002837;
+  padding: 10px 15px 10px 15px;
+  border-radius: 1rem;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-left: 0.5em;
+}
+
+.feed {
+  margin-left: 100px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.send:hover {
+  background-color: #00bcfc;
+  color: #f5f5f5;
+}
+
+.options {
+  margin-top: -10px;
+}
+
+.label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+.input,
+.textarea {
+  font: 1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+}
+
+.subscribe {
+  margin-top: 10px;
+}
